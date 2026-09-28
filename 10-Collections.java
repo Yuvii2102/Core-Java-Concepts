@@ -1,4 +1,4 @@
-* Collection in Java??
+* Collection in Java?
 
 👉 Collection means a group of objects.
 In Java, the Collection Framework helps us store and manage data easily.
